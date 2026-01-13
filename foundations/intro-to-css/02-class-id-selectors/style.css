@@ -1,6 +1,21 @@
 /* Add CSS Styling */
 .classy {
-    background-color: pink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 167, 167);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+#bigBlue {
+    color:rgb(0, 60, 255);
+    font-size: 36px;
+}
+
+.font-size2 {
+  font-size: 24px;
+}
+
+#bigGreen {
+    background-color:rgb(144, 248, 144);
+    font-size: 24px;
+    font-weight: bold;
 
 }

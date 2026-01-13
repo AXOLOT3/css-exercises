@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+/* Add CSS Styling */
+.common {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+
+.diff1 {
+    background-color: black;
+    color: white;
+}
+
+.diff2 {
+    background-color: yellow;
+}
